@@ -1,7 +1,6 @@
 // ./components/App.jsx
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import ReactDOM from 'react-dom';
 import ContactForm from './ContactForm';
 import ContactList from './ContactList';
 import ContactFilter from './ContactFilter';
